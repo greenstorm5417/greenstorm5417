@@ -27,6 +27,7 @@ A demonstration of AI playing Flappy Bird, built in Python. Showcases reinforcem
 - **Neural Evolution of Augmenting Topologies (NEAT)**
 - **Genetic Algorithm**
 - **Rule-Based AI**
+
 **Languages:** Python
 
 ---
