@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Greenstorm
 
+### I'm a self-taught developer currently completing my senior year of high school
 <!--
 **greenstorm5417/greenstorm5417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
